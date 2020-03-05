@@ -1,4 +1,6 @@
 # Kubernetes Examples
+Import link for kubenetes
+https://medium.com/better-programming/kubernetes-a-detailed-example-of-deployment-of-a-stateful-application-de3de33c8632
 
 This directory contains a number of examples of how to run real applications
 with Kubernetes.
